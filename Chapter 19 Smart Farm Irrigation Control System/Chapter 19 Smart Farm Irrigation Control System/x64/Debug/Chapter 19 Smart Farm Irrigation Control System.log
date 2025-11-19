@@ -1,0 +1,6 @@
+﻿  Chapter 19 Smart Farm Irrigation Control System.cpp
+C:\Users\bpowel11\source\repos\Chapter 19 Smart Farm Irrigation Control System\Chapter 19 Smart Farm Irrigation Control System\Chapter 19 Smart Farm Irrigation Control System.cpp(25,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bpowel11\source\repos\Chapter 19 Smart Farm Irrigation Control System\Chapter 19 Smart Farm Irrigation Control System\Chapter 19 Smart Farm Irrigation Control System.cpp(31,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bpowel11\source\repos\Chapter 19 Smart Farm Irrigation Control System\Chapter 19 Smart Farm Irrigation Control System\Chapter 19 Smart Farm Irrigation Control System.cpp(36,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bpowel11\source\repos\Chapter 19 Smart Farm Irrigation Control System\Chapter 19 Smart Farm Irrigation Control System\Chapter 19 Smart Farm Irrigation Control System.cpp(42,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Chapter 19 Smart Farm Irrigation Control System.vcxproj -> C:\Users\bpowel11\source\repos\Chapter 19 Smart Farm Irrigation Control System\x64\Debug\Chapter 19 Smart Farm Irrigation Control System.exe
